@@ -7,6 +7,6 @@ through form input get/post requests.
 Key takeaways:
 
     -MVC model/structure
-    -Ejs syntax for frontend views
+    -EJS syntax for frontend views
     -Routers, rendering, and redirection
 
